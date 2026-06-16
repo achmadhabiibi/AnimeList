@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AniList" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorSecondary">@color/primary_blue</item>
+        <item name="colorSecondaryContainer">@color/primary_blue_light</item>
+        <item name="android:colorBackground">@color/light_gray</item>
+        <item name="android:textColorPrimary">@color/dark_gray</item>
+        <item name="android:textColorSecondary">@color/medium_gray</item>
+    </style>
+
+    <style name="Theme.AniList" parent="Base.Theme.AniList" />
+</resources>
