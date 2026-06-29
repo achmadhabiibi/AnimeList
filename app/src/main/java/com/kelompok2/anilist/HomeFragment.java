@@ -1,4 +1,4 @@
-package com.kevin.anilist;
+package com.kelompok2.anilist;
 
 import android.app.AlertDialog;
 import android.content.Intent;
@@ -94,7 +94,6 @@ public class HomeFragment extends Fragment {
 
         EditText etTitle = dialogView.findViewById(R.id.et_title);
         EditText etImageUrl = dialogView.findViewById(R.id.et_image_url);
-        // Note: score and synopsis won't be saved due to DB schema constraint in AGENTS.md
 
         builder.setPositiveButton("Add", (dialog, which) -> {
             String title = etTitle.getText().toString().trim();

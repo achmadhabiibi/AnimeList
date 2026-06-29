@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.kevin.anilist"
+    namespace = "com.kelompok2.anilist"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.kevin.anilist"
+        applicationId = "com.kelompok2.anilist"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

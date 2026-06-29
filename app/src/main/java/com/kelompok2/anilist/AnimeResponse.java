@@ -1,4 +1,4 @@
-package com.kevin.anilist;
+package com.kelompok2.anilist;
 
 import com.google.gson.annotations.SerializedName;
 import java.util.List;

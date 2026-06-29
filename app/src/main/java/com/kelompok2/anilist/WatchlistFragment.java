@@ -1,4 +1,4 @@
-package com.kevin.anilist;
+package com.kelompok2.anilist;
 
 import android.app.AlertDialog;
 import android.os.Bundle;
